@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "714479892483",
+    "project_id": "practica7nativas",
+    "storage_bucket": "practica7nativas.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714479892483:android:77bbb92d1585e78a267636",
+        "android_client_info": {
+          "package_name": "com.anette.practica7nativas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNsUVk3g_7v4uZ6UTyYOO8WR6w6zHc-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714479892483:android:e17a006143e743fd267636",
+        "android_client_info": {
+          "package_name": "com.example.practica7nativas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDNsUVk3g_7v4uZ6UTyYOO8WR6w6zHc-k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
