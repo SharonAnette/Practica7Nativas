@@ -42,6 +42,9 @@ Aplicación Android nativa desarrollada con Kotlin y Jetpack Compose que permite
   └── layout, themes, drawables
 
 
+ > ** Link del funcionamiento: https://youtube.com/shorts/9zrMdjYu58M?feature=share
+
+
 
 
 
